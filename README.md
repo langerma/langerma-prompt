@@ -1,6 +1,6 @@
 # agnoster-fcamblor.zsh-theme
 
-A ZSH theme optimized for people who use:
+My ZSH theme optimized for people who use:
 
 - Solarized
 - Git
