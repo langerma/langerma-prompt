@@ -1,4 +1,4 @@
-# agnoster-fcamblor.zsh-theme
+# langerma-prompt.zsh-theme
 
 My ZSH theme optimized for people who use:
 
